@@ -1,0 +1,5 @@
+git remote add origin https://github.com/CosmoAndrade/Web-Scraping-com-Python---Samsung-Ocean.git
+git branch -M main
+git push -u origin main
+
+https://www.kaggle.com/aliceadativa/web-scraping-com-python-parte-1
